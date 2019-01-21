@@ -1,0 +1,9 @@
+c:\users\rex\documents\visual studio 2015\Projects\SocketUDPTest\SocketUDPTest\bin\Debug\SocketUDPTest.exe.config
+c:\users\rex\documents\visual studio 2015\Projects\SocketUDPTest\SocketUDPTest\bin\Debug\SocketUDPTest.exe
+c:\users\rex\documents\visual studio 2015\Projects\SocketUDPTest\SocketUDPTest\bin\Debug\SocketUDPTest.pdb
+c:\users\rex\documents\visual studio 2015\Projects\SocketUDPTest\SocketUDPTest\obj\Debug\SocketUDPTest.csprojResolveAssemblyReference.cache
+c:\users\rex\documents\visual studio 2015\Projects\SocketUDPTest\SocketUDPTest\obj\Debug\SocketUDPTest.Form1.resources
+c:\users\rex\documents\visual studio 2015\Projects\SocketUDPTest\SocketUDPTest\obj\Debug\SocketUDPTest.Properties.Resources.resources
+c:\users\rex\documents\visual studio 2015\Projects\SocketUDPTest\SocketUDPTest\obj\Debug\SocketUDPTest.csproj.GenerateResource.Cache
+c:\users\rex\documents\visual studio 2015\Projects\SocketUDPTest\SocketUDPTest\obj\Debug\SocketUDPTest.exe
+c:\users\rex\documents\visual studio 2015\Projects\SocketUDPTest\SocketUDPTest\obj\Debug\SocketUDPTest.pdb
